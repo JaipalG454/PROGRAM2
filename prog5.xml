@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="p1.css"?>
+
+
+<students>
+
+<s1>
+<usn>USN: 4vv16cs405</usn>
+<name>NAME: Jaipal G</name>
+<college>COLLEGE: Vidyavardhaka college of engineering</college>
+<branch>BRANCH: Computer science</branch>
+<email>EMAIL: jaipalsanjay454@gmail.com</email>
+<year>YEAR: 2020</year>
+<address>ADDRESS: Gokulam,watertank</address>
+<p>*****************************************</p>
+</s1>
+
+<s1>
+<usn>USN: 4vv16cs410</usn>
+<name>NAME: Manu N</name>
+<college>COLLEGE: Vidyavardhaka college of engineering</college>
+<branch>BRANCH: Computer science</branch>
+<email>EMAIL: manu143asch@gmail.com</email>
+<year>YEAR: 2018</year>
+<address>ADDRESS: Gokulam,watertank</address>
+<p>*****************************************</p>
+</s1>
+
+<s1>
+<usn>USN: 4vv16cs402</usn>
+<name>NAME: Manoj C</name>
+<college>COLLEGE: Vidyavardhaka college of engineering</college>
+<branch>BRANCH: Information science</branch>
+<email>EMAIL: manojsanjay454@gmail.com</email>
+<year>YEAR: 2022</year>
+<address>ADDRESS: Gokulam,watertank</address>
+<p>*****************************************</p>
+</s1>
+
+<s1>
+<usn>USN: 4vv16cs420</usn>
+<name>NAME: VijaY K</name>
+<college>COLLEGE: Vidyavardhaka college of engineering</college>
+<branch>BRANCH:  Mechanical engineering</branch>
+<email>EMAIL: viji123manviji@gmail.com</email>
+<year>YEAR: 2019</year>
+<address>ADDRESS: Gokulam,watertank</address>
+<p>*****************************************</p>
+</s1>
+</students>
